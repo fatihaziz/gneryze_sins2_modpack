@@ -1,5 +1,8 @@
 [
   {
+    "_notes": "NOT WORTH TO ADD: ENCLAVE,  STATIC DEFENSE"
+  },
+  {
     "display_name": "Unique capital ships + gameplay overhaul",
     "display_version": "1.0",
     "id": 4534767,
@@ -27,12 +30,6 @@
     "display_name": "Larger Scale Realism - Planet Orbit Sizes Doubled",
     "display_version": "1.0",
     "id": 4279090,
-    "type": 1
-  },
-  {
-    "display_name": "Trader Enclave X",
-    "display_version": "1.0",
-    "id": 4297978,
     "type": 1
   },
   {
