@@ -1,4 +1,15 @@
 {
-    "scenarios": [],
-    "fake_server_scenarios": []
+  "fake_server_scenarios": [
+    "public_annulus",
+    "public_ashred",
+    "public_colliding_empires"
+  ],
+  "scenarios": [
+    "szepychokepoint2",
+    "szepychokepoint4",
+    "szepychokepoint6",
+    "szepychokepoint8",
+    "szepychokepoint10",
+    "szepyffachokepoint"
+  ]
 }

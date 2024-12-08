@@ -1,14 +1,134 @@
 [
   {
-    "type": 1,
-    "id": 4264919,
-    "display_name": "Battle for the Stars v1.4",
-    "display_version": "1.0"
+    "display_name": "Twin_empires",
+    "display_version": "1.0",
+    "id": 4263571,
+    "type": 1
   },
   {
-    "type": 1,
-    "id": 4265159,
+    "display_name": "SzepysChokepoint",
+    "display_version": "1.0",
+    "id": 4264152,
+    "type": 1
+  },
+  {
+    "display_name": "Battle for the Stars v1.4",
+    "display_version": "1.0",
+    "id": 4264919,
+    "type": 1
+  },
+  {
     "display_name": "Battle for the Galaxy",
-    "display_version": "1.0"
+    "display_version": "1.0",
+    "id": 4265159,
+    "type": 1
+  },
+  {
+    "display_name": "Bright stars",
+    "display_version": "1.0",
+    "id": 4269926,
+    "type": 1
+  },
+  {
+    "display_name": "Eve Online Skybox Pack",
+    "display_version": "1.0",
+    "id": 3892120,
+    "type": 1
+  },
+  {
+    "display_name": "Random Maps Reforged",
+    "display_version": "1.0",
+    "id": 4275624,
+    "type": 1
+  },
+  {
+    "display_name": "Solar System + 15Ly",
+    "display_version": "1.0",
+    "id": 4276332,
+    "type": 1
+  },
+  {
+    "display_name": "Coloured UI",
+    "display_version": "1.0",
+    "id": 4296712,
+    "type": 1
+  },
+  {
+    "display_name": "Schmlint's Alternate Faction Colours",
+    "display_version": "1.0",
+    "id": 4303544,
+    "type": 1
+  },
+  {
+    "display_name": "Map: Fatalist March",
+    "display_version": "1.0",
+    "id": 4342613,
+    "type": 1
+  },
+  {
+    "display_name": "No More Fleet Under Attack Audio Notes",
+    "display_version": "1.0",
+    "id": 4339676,
+    "type": 1
+  },
+  {
+    "display_name": "Alpha Galaxy (10 player)",
+    "display_version": "1.0",
+    "id": 4366980,
+    "type": 1
+  },
+  {
+    "display_name": "Horizontal Titan Arrival Shockwave",
+    "display_version": "1.0",
+    "id": 4343095,
+    "type": 1
+  },
+  {
+    "display_name": "Enigma's Chokepoints",
+    "display_version": "1.0",
+    "id": 4403658,
+    "type": 1
+  },
+  {
+    "display_name": "Gamma Galaxy (6 and 10 player)",
+    "display_version": "1.0",
+    "id": 4387741,
+    "type": 1
+  },
+  {
+    "display_name": "Bluewheel",
+    "display_version": "1.0",
+    "id": 4409033,
+    "type": 1
+  },
+  {
+    "display_name": "Obstinate Realms",
+    "display_version": "1.0",
+    "id": 4493962,
+    "type": 1
+  },
+  {
+    "display_name": "Ankia's Chokepoint",
+    "display_version": "1.0",
+    "id": 4493560,
+    "type": 1
+  },
+  {
+    "display_name": "Vertical Titan Arrival Shockwave",
+    "display_version": "1.0",
+    "id": 4415851,
+    "type": 1
+  },
+  {
+    "display_name": "Delta Galaxy (10 player)",
+    "display_version": "1.0",
+    "id": 4527707,
+    "type": 1
+  },
+  {
+    "display_name": "Unstable Maps",
+    "display_version": "1.0",
+    "id": 4510162,
+    "type": 1
   }
 ]
