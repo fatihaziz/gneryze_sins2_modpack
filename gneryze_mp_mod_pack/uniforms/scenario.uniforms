@@ -1,6 +1,4 @@
 {
-    "scenarios": [
-        "Delta_Galaxy_10p"
-    ],
+    "scenarios": [],
     "fake_server_scenarios": []
 }

@@ -111,6 +111,12 @@
     "tags": [
         "structure"
     ],
+    "is_phase_lane_stabilizer": true,
+    "abilities": [
+    {
+        "abilities": [
+            "vasari_phase_gate_structure_spawn_phase_lane"]
+    }],
     "virtual_supply_cost": 10,
     "skin_groups": [
     {
