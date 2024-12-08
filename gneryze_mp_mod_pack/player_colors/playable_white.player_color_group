@@ -1,0 +1,126 @@
+{
+    "user_interface_color": "#ffffff",
+    "pip_color": "#bfbfbf",
+    "main_view_planet_background_color": "#ffffff",
+    "mesh_colors": [
+    {
+        "primary": "#ffffff",
+        "secondary": "#98100f",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#bd6425",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#e2a200",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#067eff",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#06b7ff",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#40c80e",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#9ca911",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#e01277",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#7400ff",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#040305",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#630a1b",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#5c3f27",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#a56f00",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#044388",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#035d81",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#216508",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#404312",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#660937",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#3a0080",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    },
+    {
+        "primary": "#cfc6be",
+        "secondary": "#040305",
+        "primary_emissive": "#ffffff",
+        "secondary_emissive": "#ffffff"
+    }]
+}

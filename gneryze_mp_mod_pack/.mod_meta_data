@@ -1,0 +1,11 @@
+{
+  "compatibility_version": 2,
+  "display_name": "GNERyze MULTIPLAYER MOD PACK",
+  "display_version": "1.0",
+  "short_description": "Colour UI, MAPS, etc",
+  "long_description": "All mods that can be used for multiplayer",
+  "logos": {
+    "small_logo": "gneryze.gif",
+    "large_logo": "gneryze.gif"
+  }
+}

@@ -1,0 +1,155 @@
+{
+    "version": 2,
+    "nodes": [
+    {
+        "id": 32,
+        "name": "PlanetCenter",
+        "x": [0.0, 0.0],
+        "y": [0.0, 0.0],
+        "z": [0.0, 0.0],
+        "yaw": [0.0, 0.0],
+        "pitch": [1.570796, 1.570796],
+        "roll": [0.0, 0.0]
+    }],
+    "emitters": [
+    {
+        "id": 33,
+        "name": "GravityDistort",
+        "type": "point",
+        "emit_max_particle_count": [5.0, 5.0],
+        "emit_rate":
+        {
+            "behavior": "increase",
+            "primary_emit_rate": [100.0, 200.0],
+            "primary_time": [30.0, 30.0]
+        },
+        "particle":
+        {
+            "type": "billboard",
+            "render_layer": 0,
+            "max_duration": [15.0, 16.5],
+            "color": "ffc8f9ff",
+            "fade_in_time": [1.0, 1.0],
+            "fade_out_time": [0.0, 0.0],
+            "billboard":
+            {
+                "render_with_additive_blending": true,
+                "shader_type": "uber_add_color",
+                "facing_type": "face_particle_direction",
+                "width": [87000.0, 87000.0],
+                "rotation": [0.0, 6.283185],
+                "rotation_speed": [-0.017453, 0.017453],
+                "texture_0": "bubble_radius",
+                "erosion_texture": "ggn2",
+                "refraction_texture": "advent_revenge_from_beyond_radius",
+                "refraction_mask_texture": "heat_refraction_falloff",
+                "initial_erosion_noise_offset_u": [0.0, 1.0],
+                "initial_erosion_noise_offset_v": [0.0, 1.0],
+                "uber_constants":
+                {
+                    "basic_constants":
+                    {
+                        "depth_fade_opacity": 0.5,
+                        "depth_fade_distance": 10000.0
+                    },
+                    "erosion_constants":
+                    {
+                        "noise_constants_0":
+                        {
+                            "u_pan_speed": 0.005,
+                            "v_pan_speed": -0.01
+                        },
+                        "noise_constants_1":
+                        {
+                            "u_pan_speed": -0.0075,
+                            "v_pan_speed": 0.005
+                        }
+                    }
+                }
+            },
+            "mesh":
+            {}
+        },
+        "forward_velocity": [0.0, 0.0]
+    }],
+    "modifiers": [
+    {
+        "id": 27,
+        "name": "Refraction",
+        "type": "float_property",
+        "particle_time_offset": [9.0, 9.0],
+        "particle_time_duration": [5.8, 5.8],
+        "property_type": "refraction_scalar",
+        "property_value":
+        {
+            "type": "ease",
+            "range": [0.0, 0.0],
+            "easing_function": "linear",
+            "easing_values": [0.125, 0.0]
+        }
+    },
+    {
+        "id": 29,
+        "name": "GravityDistortSize",
+        "type": "float_property",
+        "property_type": "width_and_height_scale",
+        "property_value":
+        {
+            "type": "ease",
+            "range": [0.0, 0.0],
+            "easing_function": "linear",
+            "easing_values": [0.0, 1.0]
+        }
+    },
+    {
+        "id": 34,
+        "name": "RefractionStart",
+        "type": "float_property",
+        "particle_time_duration": [6.0, 6.0],
+        "property_type": "refraction_scalar",
+        "property_value":
+        {
+            "type": "ease",
+            "range": [0.0, 0.0],
+            "easing_function": "out_sine",
+            "easing_values": [0.0, 0.125]
+        }
+    },
+    {
+        "id": 35,
+        "name": "Erosion",
+        "type": "float_property",
+        "particle_time_offset": [9.0, 9.0],
+        "particle_time_duration": [5.0, 5.0],
+        "property_type": "erosion_test_base",
+        "property_value":
+        {
+            "type": "ease",
+            "range": [0.0, 0.0],
+            "easing_function": "out_sine",
+            "easing_values": [0.0, 1.0]
+        }
+    }],
+    "emitter_to_node_attachments": [
+    {
+        "attacher_id": 33,
+        "attachee_id": 32
+    }],
+    "modifier_to_emitter_attachments": [
+    {
+        "attacher_id": 27,
+        "attachee_id": 33
+    },
+    {
+        "attacher_id": 34,
+        "attachee_id": 33
+    },
+    {
+        "attacher_id": 29,
+        "attachee_id": 33
+    },
+    {
+        "attacher_id": 35,
+        "attachee_id": 33
+    }]
+}

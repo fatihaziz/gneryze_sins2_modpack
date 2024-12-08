@@ -1,0 +1,26 @@
+{
+    "starfield_layers": [
+    {
+        "base_color_texture": "starfielddense",
+        "zoom": 4.0,
+        "speed_scalar": 1
+    },
+    {
+        "base_color_texture": "starfieldsparse",
+        "zoom": 3.4,
+        "speed_scalar": 1.025
+    },
+    {
+        "base_color_texture": "stars01_tile3",
+        "zoom": 3.0,
+        "speed_scalar": 1.05
+    }],
+    "skybox_layers": [
+    {
+        "base_color_texture": "skybox_perrigen_falls_layer",
+        "speed_scalar": 1.02
+    }],
+    "radiance_texture": "skybox_perrigen_falls_rad",
+    "irradiance_texture": "skybox_perrigen_falls_irr",
+    "dfg_texture": "default_skybox_dfg.png"
+}

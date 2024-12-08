@@ -1,0 +1,287 @@
+{
+	"random_skybox_fillings": [
+		{
+			"name": "skybox_random",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_default_cyno",
+						"probability": 0
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_fantasy_flight",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_eye_of_the_storm",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_supercell",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_cosmic_candy",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_cosmic_caverns",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+			"name": "skybox_mystic_mountains",
+			"filling": {
+				"items": [
+					{
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}
+				]
+			}
+		},
+		{
+        "name": "front_end_scene",
+        "filling":
+        {
+            "items": [
+            {
+						"skybox": "skybox_domain",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_heimatar",
+						"probability": 0
+					},
+					{
+						"skybox": "skybox_kador",
+						"probability": 1
+					},
+					{
+						"skybox": "skybox_perrigen_falls",
+						"probability": 0
+					},
+					{
+						"skybox": "skybox_the_forge",
+						"probability": 0
+					},
+					{
+						"skybox": "skybox_the_kalevala_expanse",
+						"probability": 0
+					},
+					{
+						"skybox": "skybox_verge_vendor",
+						"probability": 1
+					}]
+        }
+    }]
+}
