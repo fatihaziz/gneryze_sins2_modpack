@@ -1,10 +1,1 @@
-{
-  "ai_difficulty.name.slightly_unfair": "Slightly Unfair",
-  "ai_difficulty.description.slightly_unfair": "Receives 25% of the default Unfair AI resource advantage", 
-  "ai_difficulty.name.somewhat_unfair": "Somewhat Unfair",
-  "ai_difficulty.description.somewhat_unfair": "Receives 50% of the default Unfair AI resource advantage",
-  "ai_difficulty.name.pretty_unfair": "Pretty Unfair",
-  "ai_difficulty.description.pretty_unfair": "Receives 75% of the default Unfair AI resource advantage",
-  "ai_difficulty.name.very_unfair": "Very Unfair",
-  "ai_difficulty.description.very_unfair": "Receives 150% of the default Unfair AI resource advantage"
-}
+{}
