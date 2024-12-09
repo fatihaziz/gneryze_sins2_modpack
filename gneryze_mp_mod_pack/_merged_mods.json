@@ -1,5 +1,14 @@
 [
   {
+    "_dont_add": [
+      "STATIS DEFENSE, https://mod.io/g/sins2/m/static-defenses"
+    ],
+    "_manual_add": [
+      "Bullet effect, https://mod.io/g/sins2/m/bigger-tec-bullet-effects"
+    ],
+    "_notes": ""
+  },
+  {
     "display_name": "Twin_empires",
     "display_version": "1.0",
     "id": 4263571,

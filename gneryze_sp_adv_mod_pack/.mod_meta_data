@@ -1,0 +1,11 @@
+{
+  "compatibility_version": 2,
+  "display_name": "GNERyze SINGLEPLAYER GAMEPLAY MOD PACK",
+  "display_version": "1.0",
+  "short_description": "Fleet ETC",
+  "long_description": "All mods that can be used for SINGLEPLAYER",
+  "logos": {
+    "small_logo": "gneryze.gif",
+    "large_logo": "gneryze.gif"
+  }
+}

@@ -1,12 +1,10 @@
 [
   {
-    "_notes": "",
     "_dont_add": [
       "STATIS DEFENSE, https://mod.io/g/sins2/m/static-defenses"
     ],
-    "_manual_add": [
-      "Bullet effect, https://mod.io/g/sins2/m/bigger-tec-bullet-effects"
-    ]
+    "_manual_add": [],
+    "_notes": ""
   },
   {
     "display_name": "Unique capital ships + gameplay overhaul",
