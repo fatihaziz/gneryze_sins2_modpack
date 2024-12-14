@@ -1,0 +1,11 @@
+{
+    "compatibility_version": 2,
+    "display_name": "v28-16 Shields Are Blue",
+    "display_version": "0.1.0",
+    "short_description": "Shield health bars are blue.  Anti-matter is yellow. ",
+    "long_description": "test",
+    "logos": {
+        "small_logo": "_preview_small.png",
+        "large_logo": "_preview_large.png"
+    }
+}

@@ -5,6 +5,8 @@
     "public_colliding_empires"
   ],
   "scenarios": [
+    "4 A Star Each",
+    "8 A Star Each",
     "10p_Wheel_Chokepoint_B",
     "10p_Wheel_Chokepoint",
     "2v2_Unstable",

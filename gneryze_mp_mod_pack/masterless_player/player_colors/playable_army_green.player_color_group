@@ -1,0 +1,125 @@
+{
+    "user_interface_color": "#69FF8C",
+    "main_view_planet_background_color": "#69FF8C",
+    "mesh_colors": [
+    {
+        "primary": "#69FF8C",
+        "secondary": "#ffffff",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#B27092",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#e3a200",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#D65780",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#DA2C38",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#564256",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#FC814A",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#456990",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#51624b",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FF8C",
+        "secondary": "#000000",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FFAC",
+        "secondary": "#CF5C36",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FFAC",
+        "secondary": "#493657",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#69FFAC",
+        "secondary": "#FF1B1C",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#436E32",
+        "secondary": "#a3cbda",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#436E32",
+        "secondary": "#FF7F11",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#436E32",
+        "secondary": "#143642",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#436E32",
+        "secondary": "#EC9A29",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#436E32",
+        "secondary": "#A799B7",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#000000",
+        "secondary": "#69FF8C",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    },
+    {
+        "primary": "#ffffff",
+        "secondary": "#69FF8C",
+        "primary_emissive": "#b0d0a4",
+        "secondary_emissive": "#b0d0a4"
+    }]
+}

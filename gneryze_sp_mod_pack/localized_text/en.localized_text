@@ -1,1 +1,16 @@
-{}
+{
+  "unit_build_group_name.mem_supercapital": "SUPERCAPITAL SHIPS",
+  "unit_build_group_name.mem_superheavy_cruiser": "SUPER-HEAVY CRUISERS",
+  "unit_build_group_name.mem_utility": "UTILITY SHIPS",
+  "unit_build_kind_name.mem_limited_capital": "Limited-Build Capital Ship",
+  "unit_build_kind_name.mem_supercapital": "Supercapital Ships",
+  "unit_build_kind_name.mem_superheavy_cruiser": "Super-Heavy Cruiser",
+  "unit_build_kind_name.mem_utility": "Utility Ship",
+  "unit_tag_name.mem_limited1": "Limited-Build Units",
+  "unit_tag_name.mem_limited2": "Limited-Build Units",
+  "unit_tag_name.mem_limited_capital": "Limited-Build Units",
+  "unit_tag_name.mem_structure_limited": "Limited-Build Structures",
+  "unit_tag_name.mem_supercapital": "Supercapital Ship",
+  "unit_tag_name.mem_superheavy_cruiser": "Super-heavy Cruiser",
+  "unit_tag_name.mem_utility": "Utility Ships"
+}
